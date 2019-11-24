@@ -1,0 +1,34 @@
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\sentiment Analysis C.exe
+X:\Workspace\NET\sentiment Analysis C\obj\Debug\netcoreapp3.0\sentiment Analysis C.AssemblyInfoInputs.cache
+X:\Workspace\NET\sentiment Analysis C\obj\Debug\netcoreapp3.0\sentiment Analysis C.AssemblyInfo.cs
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.Core.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.Data.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.PCA.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.StandardTrainers.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.Transforms.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.DataView.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+X:\Workspace\NET\sentiment Analysis C\obj\Debug\netcoreapp3.0\sentiment Analysis C.csproj.CopyComplete
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\sentiment Analysis C.deps.json
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\sentiment Analysis C.runtimeconfig.json
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\sentiment Analysis C.runtimeconfig.dev.json
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\sentiment Analysis C.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\sentiment Analysis C.pdb
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Microsoft.ML.FastTree.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFastTreeNative.so
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FastTreeNative.dll
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\FastTreeNative.dll
+X:\Workspace\NET\sentiment Analysis C\obj\Debug\netcoreapp3.0\sentiment Analysis C.csprojAssemblyReference.cache
+X:\Workspace\NET\sentiment Analysis C\obj\Debug\netcoreapp3.0\sentiment Analysis C.dll
+X:\Workspace\NET\sentiment Analysis C\obj\Debug\netcoreapp3.0\sentiment Analysis C.pdb
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Data\yelp_labelled.txt
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Data\imdb_labelled.txt
+X:\Workspace\NET\sentiment Analysis C\bin\Debug\netcoreapp3.0\Settings.job
